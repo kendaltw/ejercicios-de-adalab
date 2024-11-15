@@ -6,6 +6,9 @@ function App() {
 
   return (
     <>
+     <header>
+      <h1>¡Cuidado con Grogu!</h1>
+    </header>
     <main className="page">
       <section className="board">
         <div className="cell"><div className="grogu">👣</div></div>
